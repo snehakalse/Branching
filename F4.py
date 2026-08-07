@@ -1,0 +1,2 @@
+s="sneha"
+print(s)
